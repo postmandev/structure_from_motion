@@ -1,0 +1,14 @@
+Final Project - Structure from Motion
+CIS-580, Machine Perception, Spring 2015
+Final Report due: May 6, 2015, 11:59PM
+
+Taught by:  Prof. Jianbo Shi
+TA's:       Hyun Soo Park, Sangdon Park
+Team:       Michael O'Meara and Michael Woods
+
+Platform OS: Mac OS X Yosemite version 10.10.3
+
+Additional Libraries: SBA
+
+Primary SfM pipeline: StructureFromMotion.m
+Visualization tests:  visualizations.m

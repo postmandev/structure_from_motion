@@ -1,0 +1,2231 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  6 MAY 2015 17:08
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex
+(/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 1999/11/29 v2.0
+\athelp@=\toks25
+\minaw@=\dimen112
+\bigaw@=\dimen113
+\minCDarrowwidth=\dimen114
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip50
+\f@ncyO@elh=\skip51
+\f@ncyO@erh=\skip52
+\f@ncyO@olh=\skip53
+\f@ncyO@orh=\skip54
+\f@ncyO@elf=\skip55
+\f@ncyO@erf=\skip56
+\f@ncyO@olf=\skip57
+\f@ncyO@orf=\skip58
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (./mcode.sty
+-- Package: `mcode' 2.5 <2014/03/06> --
+Package: mcode 2014/03/06 2.5
+ - settings optimized for display (colour formating)
+ - framed listings
+(/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/listings.sty (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+\lst@mode=\count100
+\lst@gtempboxa=\box28
+\lst@token=\toks28
+\lst@length=\count101
+\lst@currlwidth=\dimen115
+\lst@column=\count102
+\lst@pos=\count103
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count104
+\lst@lineno=\count105
+\lst@maxwidth=\dimen118
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count106
+\lst@skipnumbers=\count107
+\lst@framebox=\box29
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen121
+\Gm@wd@mp=\dimen122
+\Gm@odd@mp=\dimen123
+\Gm@even@mp=\dimen124
+\Gm@layoutwidth=\dimen125
+\Gm@layoutheight=\dimen126
+\Gm@layouthoffset=\dimen127
+\Gm@layoutvoffset=\dimen128
+\Gm@dimlist=\toks29
+)
+No file TSWLatexianTemp_final-report-momeara-micwoods.aux.
+\openout1 = `TSWLatexianTemp_final-report-momeara-micwoods.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 36.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 36.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 36.
+ (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen129
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen130
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks31
+)
+\c@lstlisting=\count117
+\symgns@font=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 36.
+Package gensymb Info: Math companion symbols declared on input line 36.
+LaTeX Info: Redefining \degree on input line 36.
+LaTeX Info: Redefining \celsius on input line 36.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 36.
+LaTeX Info: Redefining \ohm on input line 36.
+Package gensymb Info: Using \textohm for \ohm on input line 36.
+Package gensymb Info: Using \textmu for \micro on input line 36.
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=624.25346pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=13.08827pt
+* \headheight=20.0pt
+* \headsep=10.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 38.
+
+<../images/after_ransac1-2.png, id=1, 977.6525pt x 697.60625pt>
+File: ../images/after_ransac1-2.png Graphic file (type png)
+ <use ../images/after_ransac1-2.png>
+Package pdftex.def Info: ../images/after_ransac1-2.png used on input line 44.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+ <../images/after_ransac5-6.png, id=2, 977.6525pt x 697.60625pt>
+File: ../images/after_ransac5-6.png Graphic file (type png)
+ <use ../images/after_ransac5-6.png>
+Package pdftex.def Info: ../images/after_ransac5-6.png used on input line 45.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:49: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:50: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.50 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package Fancyhdr Warning: \headheight is too small (20.0pt): 
+ Make it at least 22.54448pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+ <../images/after_ransac1-2.png (PNG copy)> <../images/after_ransac5-6.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 53.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:122: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.122 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing $ inserted.
+<inserted text> 
+                $
+l.127 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing } inserted.
+<inserted text> 
+                }
+l.127 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing } inserted.
+<inserted text> 
+                }
+l.127 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing } inserted.
+<inserted text> 
+                }
+l.127 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.127 
+      
+I'm guessing that you meant to end an alignment here.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing { inserted.
+<inserted text> 
+                {
+l.127 
+      
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing $ inserted.
+<inserted text> 
+                $
+l.127 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Missing $$ inserted.
+<to be read again> 
+                   \@@par 
+l.127 
+      
+Displays can use special alignments (like \eqalignno)
+only if nothing but the alignment itself is between $$'s.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:127: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.127 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:128: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.128 \\ i
+          nliers for image 2: 123 / 202 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:128: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.128 \\ i
+          nliers for image 2: 123 / 202 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:128: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.128 \\ i
+          nliers for image 2: 123 / 202 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:128: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.128 \\ i
+          nliers for image 2: 123 / 202 \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:128: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.128 \\ i
+          nliers for image 2: 123 / 202 \\
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:129: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.129 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:129: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.129 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:129: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.129 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:129: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.129 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:129: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.129 
+      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:130: Misplaced alignment tab character &.
+l.130 C &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:130: Misplaced alignment tab character &.
+l.130 C &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:131: Missing $ inserted.
+<inserted text> 
+                $
+l.131 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:135: Missing $ inserted.
+<inserted text> 
+                $
+l.135 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.136 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.136 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.136 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.136 R
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.136 R
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced alignment tab character &.
+l.136 R &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:136: Misplaced alignment tab character &.
+l.136 R &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:137: Missing $ inserted.
+<inserted text> 
+                $
+l.137 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:141: Missing $ inserted.
+<inserted text> 
+                $
+l.141 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:142: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.142 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:142: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.142 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:142: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.142 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:142: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.142 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:142: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.142 
+      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:143: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.143 \\i
+         nliers for image 3: 185 / 725 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:143: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.143 \\i
+         nliers for image 3: 185 / 725 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:143: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.143 \\i
+         nliers for image 3: 185 / 725 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:143: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.143 \\i
+         nliers for image 3: 185 / 725 \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:143: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.143 \\i
+         nliers for image 3: 185 / 725 \\
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.144 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.144 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.144 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.144 C
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.144 C
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced alignment tab character &.
+l.144 C &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:144: Misplaced alignment tab character &.
+l.144 C &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:145: Missing $ inserted.
+<inserted text> 
+                $
+l.145 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:149: Missing $ inserted.
+<inserted text> 
+                $
+l.149 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.150 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.150 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.150 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.150 R
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.150 R
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced alignment tab character &.
+l.150 R &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:150: Misplaced alignment tab character &.
+l.150 R &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:151: Missing $ inserted.
+<inserted text> 
+                $
+l.151 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:155: Missing $ inserted.
+<inserted text> 
+                $
+l.155 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:156: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.156 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:156: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.156 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:156: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.156 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:156: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.156 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:156: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.156 
+      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:157: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.157 \\i
+         nliers for image 5: 44 / 422 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:157: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.157 \\i
+         nliers for image 5: 44 / 422 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:157: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.157 \\i
+         nliers for image 5: 44 / 422 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:157: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.157 \\i
+         nliers for image 5: 44 / 422 \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:157: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.157 \\i
+         nliers for image 5: 44 / 422 \\
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.158 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.158 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.158 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.158 C
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.158 C
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced alignment tab character &.
+l.158 C &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:158: Misplaced alignment tab character &.
+l.158 C &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:159: Missing $ inserted.
+<inserted text> 
+                $
+l.159 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:163: Missing $ inserted.
+<inserted text> 
+                $
+l.163 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.164 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.164 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.164 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.164 R
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.164 R
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced alignment tab character &.
+l.164 R &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:164: Misplaced alignment tab character &.
+l.164 R &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:165: Missing $ inserted.
+<inserted text> 
+                $
+l.165 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:169: Missing $ inserted.
+<inserted text> 
+                $
+l.169 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:170: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.170 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:170: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.170 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:170: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.170 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:170: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.170 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:170: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.170 
+      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:171: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.171 \\ i
+          nliers for image 6: 24 / 659 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:171: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.171 \\ i
+          nliers for image 6: 24 / 659 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:171: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.171 \\ i
+          nliers for image 6: 24 / 659 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:171: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.171 \\ i
+          nliers for image 6: 24 / 659 \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:171: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.171 \\ i
+          nliers for image 6: 24 / 659 \\
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.172 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.172 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.172 C
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.172 C
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.172 C
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced alignment tab character &.
+l.172 C &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:172: Misplaced alignment tab character &.
+l.172 C &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:173: Missing $ inserted.
+<inserted text> 
+                $
+l.173 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:177: Missing $ inserted.
+<inserted text> 
+                $
+l.177 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.178 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.178 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.178 R
+        &=&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.178 R
+        &=&
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.178 R
+        &=&
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced alignment tab character &.
+l.178 R &
+         =&
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:178: Misplaced alignment tab character &.
+l.178 R &=&
+           
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:179: Missing $ inserted.
+<inserted text> 
+                $
+l.179 \begin{bmatrix}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:183: Missing $ inserted.
+<inserted text> 
+                $
+l.183 \end{bmatrix}
+                    \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:184: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.184 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:184: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.184 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:184: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.184 
+      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:184: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.184 
+      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:184: Misplaced \noalign.
+\@xeqncr [#1]->\ifnum 0=`{\fi }\@@eqncr \noalign 
+                                                 {\penalty \@eqpen \vskip \jot \vskip #1\relax }
+l.184 
+      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Misplaced alignment tab character &.
+\reserved@a ->&
+                & &
+l.185 \end{eqnarray*}
+                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Misplaced alignment tab character &.
+\reserved@a ->& &
+                  &
+l.185 \end{eqnarray*}
+                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Misplaced alignment tab character &.
+\reserved@a ->& & &
+                   
+l.185 \end{eqnarray*}
+                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.185 \end{eqnarray*}
+                     
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Extra }, or forgotten \endgroup.
+\endeqnarray ->\@@eqncr \egroup 
+                                \global \advance \c@equation \m@ne $$\@ignoretrue 
+l.185 \end{eqnarray*}
+                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Missing $ inserted.
+<inserted text> 
+                $
+l.185 \end{eqnarray*}
+                     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:185: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.185 \end{eqnarray*}
+                     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+<../images/2D-triangulation-img1.png, id=17, 977.6525pt x 697.60625pt>
+File: ../images/2D-triangulation-img1.png Graphic file (type png)
+ <use ../images/2D-triangulation-img1.png>
+Package pdftex.def Info: ../images/2D-triangulation-img1.png used on input line 191.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+ <../images/2D-triangulation-img4.png, id=18, 977.6525pt x 697.60625pt>
+File: ../images/2D-triangulation-img4.png Graphic file (type png)
+ <use ../images/2D-triangulation-img4.png>
+Package pdftex.def Info: ../images/2D-triangulation-img4.png used on input line 192.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:196: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/3D_linear_nonlinear_triangulation.png, id=19, 1055.945pt x 881.2925pt>
+File: ../images/3D_linear_nonlinear_triangulation.png Graphic file (type png)
+ <use ../images/3D_linear_nonlinear_triangulation.png>
+Package pdftex.def Info: ../images/3D_linear_nonlinear_triangulation.png used on input line 199.
+(pdftex.def)             Requested size: 361.34999pt x 301.57191pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:203: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/camera_poses.png, id=20, 913.4125pt x 881.2925pt>
+File: ../images/camera_poses.png Graphic file (type png)
+ <use ../images/camera_poses.png>
+Package pdftex.def Info: ../images/camera_poses.png used on input line 207.
+(pdftex.def)             Requested size: 361.34999pt x 348.6379pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:211: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:213: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.213 \newpage
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3] <../images/final-img1.png, id=24, 977.6525pt x 697.60625pt>
+File: ../images/final-img1.png Graphic file (type png)
+ <use ../images/final-img1.png>
+Package pdftex.def Info: ../images/final-img1.png used on input line 217.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+ <../images/final-img2.png, id=25, 977.6525pt x 697.60625pt>
+File: ../images/final-img2.png Graphic file (type png)
+ <use ../images/final-img2.png>
+Package pdftex.def Info: ../images/final-img2.png used on input line 218.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:222: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/final-img3.png, id=26, 977.6525pt x 697.60625pt>
+File: ../images/final-img3.png Graphic file (type png)
+ <use ../images/final-img3.png>
+Package pdftex.def Info: ../images/final-img3.png used on input line 225.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+ <../images/final-img4.png, id=27, 977.6525pt x 697.60625pt>
+File: ../images/final-img4.png Graphic file (type png)
+ <use ../images/final-img4.png>
+Package pdftex.def Info: ../images/final-img4.png used on input line 226.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:230: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.230 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/final-img5.png, id=28, 977.6525pt x 697.60625pt>
+File: ../images/final-img5.png Graphic file (type png)
+ <use ../images/final-img5.png>
+Package pdftex.def Info: ../images/final-img5.png used on input line 233.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+ <../images/final-img6.png, id=29, 977.6525pt x 697.60625pt>
+File: ../images/final-img6.png Graphic file (type png)
+ <use ../images/final-img6.png>
+Package pdftex.def Info: ../images/final-img6.png used on input line 234.
+(pdftex.def)             Requested size: 361.34999pt x 257.84415pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:238: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/diff_colors_per_iteration_3D.png, id=30, 1119.18124pt x 830.10126pt>
+File: ../images/diff_colors_per_iteration_3D.png Graphic file (type png)
+ <use ../images/diff_colors_per_iteration_3D.png>
+Package pdftex.def Info: ../images/diff_colors_per_iteration_3D.png used on input line 241.
+(pdftex.def)             Requested size: 361.34999pt x 268.01909pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:245: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.245 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/final-3d-top.png, id=31, 1686.3pt x 885.3075pt>
+File: ../images/final-3d-top.png Graphic file (type png)
+ <use ../images/final-3d-top.png>
+Package pdftex.def Info: ../images/final-3d-top.png used on input line 248.
+(pdftex.def)             Requested size: 361.34999pt x 189.70248pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:252: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 \begin
+            {figure}[h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/final-3d-side.png, id=32, 850.17625pt x 885.3075pt>
+File: ../images/final-3d-side.png Graphic file (type png)
+ <use ../images/final-3d-side.png>
+Package pdftex.def Info: ../images/final-3d-side.png used on input line 254.
+(pdftex.def)             Requested size: 361.34999pt x 376.28447pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:258: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 \begin
+            {figure}[h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<../images/final-3d-oblique.png, id=33, 813.0375pt x 810.02625pt>
+File: ../images/final-3d-oblique.png Graphic file (type png)
+ <use ../images/final-3d-oblique.png>
+Package pdftex.def Info: ../images/final-3d-oblique.png used on input line 260.
+(pdftex.def)             Requested size: 361.34999pt x 360.0094pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:264: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.264 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 271.
+
+
+AED: lastpage setting LastPage
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4 <../images/2D-triangulation-img1.png (PNG copy)> <../images/2D-triangulation-img4.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5 <../images/3D_linear_nonlinear_triangulation.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6 <../images/camera_poses.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[7 <../images/final-img1.png (PNG copy)> <../images/final-img2.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8 <../images/final-img3.png (PNG copy)> <../images/final-img4.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[9 <../images/final-img5.png (PNG copy)> <../images/final-img6.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10 <../images/diff_colors_per_iteration_3D.png (PNG copy)> <../images/final-3d-top.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11 <../images/final-3d-side.png (PNG copy)>]
+/Users/michaelomeara/Documents/UPenn/cis580/cis580-final-project/reports/TSWLatexianTemp_final-report-momeara-micwoods.tex:271: Undefined control sequence.
+\f@ncyolh ->\yourname \ \login 
+                               \\\course \ --- \semester \strut 
+l.271 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[12 <../images/final-3d-oblique.png (PNG copy)>] (./TSWLatexianTemp_final-report-momeara-micwoods.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5463 strings out of 493117
+ 77283 string characters out of 6135433
+ 153526 words of memory out of 5000000
+ 8809 multiletter control sequences out of 15000+600000
+ 7462 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,12n,43p,344b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TSWLatexianTemp_final-report-momeara-micwoods.pdf (12 pages, 10519173 bytes).
+PDF statistics:
+ 83 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
